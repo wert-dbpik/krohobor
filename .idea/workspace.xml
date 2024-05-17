@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1207a753-1331-46b7-9396-0d1a3c9aa4e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/wert/krohobor/StartApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/wert/krohobor/components/BXPreset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/wert/krohobor/components/TFDoubleColored.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/wert/krohobor/components/TFIntegerColored.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/wert/krohobor/controllers/KrohoborController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/wert/krohobor/controllers/PresetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/wert/krohobor/database/IPresetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/wert/krohobor/database/Preset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/wert/krohobor/database/PresetApiInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/wert/krohobor/database/PresetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/wert/krohobor/database/connect/NullOnEmptyConverterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/wert/krohobor/database/connect/RetrofitClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/krohobor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/krohobor.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/preset.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pics/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/krohobor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/krohobor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2gS29uuRExM2gZ1G1cJ7j3dBVfT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2573321" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\PIK\krohobor" />
+      <recent name="C:\GitHub\PIK\krohobor\src\main" />
+      <recent name="C:\GitHub\PIK\krohobor\src\main\java" />
+      <recent name="C:\GitHub\PIK\krohobor\src\main\resources" />
+      <recent name="C:\GitHub\PIK\krohobor\src\main\java\ru\wert\krohobor\database" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.wert.krohobor.modal" />
+      <recent name="ru.wert.krohobor.database" />
+      <recent name="ru.wert.krohobor.components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\PIK\krohobor\src\main\resources\fxml" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StartApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.wert.krohobor.StartApplication" />
+      <module name="krohobor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.wert.krohobor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1207a753-1331-46b7-9396-0d1a3c9aa4e4" name="Default Changelist" comment="" />
+      <created>1715676509962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715676509962</updated>
+      <workItem from="1715676511626" duration="7047000" />
+      <workItem from="1715750303572" duration="17225000" />
+      <workItem from="1715833551233" duration="14658000" />
+      <workItem from="1715919085440" duration="1058000" />
+      <workItem from="1715920458692" duration="130000" />
+      <workItem from="1715920623154" duration="4173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="98" key="#Project_Structure" timestamp="1715923953903">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="98" key="#Project_Structure/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715923953903" />
+    <state x="722" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1715923457615">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="722" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715923457615" />
+    <state x="765" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1715840213978">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715840213978" />
+    <state x="656" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1715770234566">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715770234566" />
+    <state x="541" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1715919332520">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="541" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715919332520" />
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1715862301325">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715862301325" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1715768652558">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715768652558" />
+    <state width="1876" height="280" key="GridCell.Tab.0.bottom" timestamp="1715924309921">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715924309921" />
+    <state width="1876" height="280" key="GridCell.Tab.0.center" timestamp="1715924309921">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="280" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715924309921" />
+    <state width="1876" height="280" key="GridCell.Tab.0.left" timestamp="1715924309921">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="280" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715924309921" />
+    <state width="1876" height="280" key="GridCell.Tab.0.right" timestamp="1715924309921">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="280" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715924309921" />
+    <state width="1876" height="212" key="GridCell.Tab.1.bottom" timestamp="1715864445304">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="212" key="GridCell.Tab.1.bottom/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715864445304" />
+    <state width="1876" height="212" key="GridCell.Tab.1.center" timestamp="1715864445304">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="212" key="GridCell.Tab.1.center/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715864445304" />
+    <state width="1876" height="212" key="GridCell.Tab.1.left" timestamp="1715864445304">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="212" key="GridCell.Tab.1.left/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715864445304" />
+    <state width="1876" height="212" key="GridCell.Tab.1.right" timestamp="1715864445304">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="212" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715864445304" />
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog" timestamp="1715769290262">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715769290262" />
+    <state x="440" y="98" key="SettingsEditor" timestamp="1715920567808">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="98" key="SettingsEditor/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715920567808" />
+    <state x="1920" y="0" width="1296" height="717" key="dock-window-1" timestamp="1715773761085">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1920" y="0" width="1296" height="717" key="dock-window-1/0.0.1920.1050/1920.0.1280.1024@0.0.1920.1050" timestamp="1715773761085" />
+  </component>
+</project>
